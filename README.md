@@ -8,7 +8,6 @@
 
 - 👀 I’m passionate in **Application and Web developing.**
 
-- 👨‍💻 All of my projects are available at [LeetCode](1)
 
 - 📄 Know about my experiences [Resume](2)
 
@@ -26,5 +25,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunal-jain21&" alt="kunal-jain21" /></p>
 
-[1]: https://leetcode.com/Kunal_Jain21/
 [2]: https://drive.google.com/file/d/1b54AQucthYznJBREF6907X04gYfvqFKD/view?usp=share_link

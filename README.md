@@ -9,7 +9,7 @@
 - 👀 I’m passionate in **Application and Web developing.**
 
 
-- 📄 Know about my experiences [Resume](2)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1b54AQucthYznJBREF6907X04gYfvqFKD/view?usp=share_link" target="_blank" rel="noreferrer"> Resume </a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunal-jain21&label=Profile%20views&color=0e75b6&style=flat" alt="kunal-jain21" /> </p>
 
